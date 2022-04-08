@@ -128,11 +128,8 @@ experiences:
             - Role
               - Infrastructure construction , Testing
             - Technology Stack
-              - Spring Framework
-              - Java
-              - Oracle
-              - Ansible
-              - JP1
+              - C#
+              - Azure
     - role: Simplex Inc.
       time: 2017/04 - 2020/04
       project:
