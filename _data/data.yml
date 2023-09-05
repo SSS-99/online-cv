@@ -39,7 +39,10 @@ sidebar:
       - item: Mountain climbing
         link:
 
-      - item: Wine
+      - item: Flower Arrangement
+        link:
+
+      - item: Wine/Japanese Sake
         link:
 
 # career-profile:
@@ -87,6 +90,8 @@ experiences:
               - Design, Coding
             - Technology Stack
               - .NET
+              - Python
+              - Typescript
               - Azure Cloud Services
               - Azure Functions
               - SQL Server
@@ -202,7 +207,7 @@ skills:
     toolset:
       - name: Language
         details: |
-          - JavaScript
+          - JavaScript/TypeScript
           - Python
           - Java
           - PHP
@@ -241,3 +246,19 @@ skills:
             - Azure Storage
             - Azure SQL Database
 
+      - name: BlockChain
+        details: |
+          - Bitcoin Based
+            - Bitcoin
+            - Bitcoin Cash
+            - Litecoin
+            - Monacoin
+          - Ethereum Based
+            - ERC20
+            - NFT(ERC721/ERC1155) (Hobby)
+            - Tools
+              - Hardhat
+              - Truffle
+              - Ganache
+          - Ripple
+          - Stellar
