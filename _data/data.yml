@@ -82,7 +82,7 @@ experiences:
     - role: Emoba inc.
       time: 2020/06 - Present
       project:
-        - name: Account System
+        - name: Account Management System for Financial Institution
           details: |
             - Project scale
               - Average team of 10 people
@@ -92,9 +92,9 @@ experiences:
               - Typescript
               - Vue.js/Nuxt
               - React
-              - Spring Framework
               - Java
-              - S3
+              - Spring Boot
+              - Cognito
               - ECS
 
         - name: Orthodontic R&D Project
