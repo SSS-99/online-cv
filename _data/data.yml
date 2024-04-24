@@ -13,20 +13,20 @@ sidebar:
 
     # Sidebar links
     email: ozawa.s@emoba.co.jp
-    phone: 
+    phone:
     citizenship:
     website:  #do not add http://
-    linkedin: 
-    xing: 
+    linkedin:
+    xing:
     github: SSS-99
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: 
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+    pdf:
 
     languages:
       - idiom: Japanese
@@ -81,7 +81,35 @@ sidebar:
 experiences:
     - role: Emoba inc.
       time: 2020/06 - Present
-      project: 
+      project:
+        - name: Account System
+          details: |
+            - Project scale
+              - Average team of 10 people
+            - Role
+              - Design, Coding
+            - Technology Stack
+              - Typescript
+              - Vue.js/Nuxt
+              - React
+              - Spring Framework
+              - Java
+              - S3
+              - ECS
+
+        - name: Orthodontic R&D Project
+          details: |
+            - Project scale
+              - Average team of 3 people
+            - Role
+              - Research, Design, Coding
+            - Technology Stack
+              - Typescript
+              - Python
+              - ECR
+              - Sagemaker
+              - S3
+
         - name: Cryptocurrency Wallet System
           details: |
             - Project scale
@@ -208,6 +236,7 @@ skills:
       - name: Language
         details: |
           - JavaScript/TypeScript
+            - Node.js
           - Python
           - Java
           - PHP
@@ -222,12 +251,15 @@ skills:
           - Laravel
           - Firebase
           - React
+          - Vue.js/Nuxt
           - Flutter(Hobby)
 
       - name: Clouds, etc.
         details: |
           - AWS
             - EC2
+            - ECS
+            - ECR
             - Lambda
             - Glue
             - Athena
