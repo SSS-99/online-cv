@@ -284,6 +284,7 @@ skills:
             - Cloud Formation
             - SAM
             - Amplify
+            - Cognito
           - GCP
             - GAE
             - GCE
@@ -295,6 +296,11 @@ skills:
             - Azure Functions
             - Azure Storage
             - Azure SQL Database
+          - Firebase
+            - Firebase Authentication
+            - Cloud Firestore
+            - Cloud Storage
+            - Cloud Functions
 
       - name: BlockChain
         details: |
