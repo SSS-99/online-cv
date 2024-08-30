@@ -82,6 +82,24 @@ experiences:
     - role: Emoba inc.
       time: 2020/06 - Present
       project:
+        - name: Token Community System
+          details: |
+            - Project scale
+              - Average team of 10 people
+            - Role
+              - Design, Coding
+            - Technology Stack
+              - Typescript
+              - Vue.js/Nuxt
+              - Firebase
+
+        - name: Requirement Analysis for Cryptoasset Exchange Service Providers
+          details: |
+            - Project scale
+              - Average team of 10 people
+            - Role
+              - Analysis
+
         - name: Account Management System for Financial Institution
           details: |
             - Project scale
